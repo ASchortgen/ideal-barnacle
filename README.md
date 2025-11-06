@@ -34,6 +34,12 @@ cd ideal-barnacle
 git clone https://github.com/vishaalagartha/basketball_reference_scraper
 ```
 
+* Using poetry as package manager
+```
+cd ideal-barnacle
+git clone https://github.com/vishaalagartha/basketball_reference_scraper
+```
+
 * Replace outdated scrapping scripts
 ```
 cp scrapping/some_script.py basketball_reference_scraper/some_old_script.py
