@@ -28,11 +28,16 @@
 git clone https://github.com/ASchortgen/ideal-barnacle.git
 ```
 
-* Clone basketball_reference_scraper
+* Clone basketball_reference_scraper inside the dedicated folder
 ```
+cd ideal-barnacle
 git clone https://github.com/vishaalagartha/basketball_reference_scraper
 ```
 
+* Replace outdated scrapping scripts
+```
+cp scrapping/some_script.py basketball_reference_scraper/some_old_script.py
+```
 
 * Install requirements
 ```
