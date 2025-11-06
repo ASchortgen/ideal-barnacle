@@ -41,5 +41,5 @@ cp scrapping/some_script.py basketball_reference_scraper/some_old_script.py
 
 * Install requirements
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
